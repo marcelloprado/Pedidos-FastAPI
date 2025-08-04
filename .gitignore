@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configuração de banco local
+*.db
+banco.db
+
+# Arquivos de ambiente (variáveis secretas)
+.env
+
+# Alembic (arquivos de migração compilados)
+alembic/versions/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Outros
+.DS_Store
+*.sqlite3
