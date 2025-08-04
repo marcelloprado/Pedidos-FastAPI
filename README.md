@@ -11,9 +11,9 @@ Este é um projeto desenvolvido com **FastAPI**, como parte do curso da **Hashta
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="caminho/para/screenshot1.png" width="600">
-  <br>
-  <img src="caminho/para/screenshot2.png" width="600">
+  <img src="assets/imagens/authorizations-ok.jpg" width="600"><br>
+  <img src="assets/imagens/authorizations.jpg" width="600"><br>
+  <img src="assets/imagens/rotas.jpg" width="600">
 </p>
 
 ---
